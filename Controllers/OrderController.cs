@@ -1,4 +1,5 @@
 
+using System;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using SportsStore.Models;
@@ -56,6 +57,17 @@ namespace SportsStore.Controllers
                 _orderRep.SaveOrder(order);
             }
             return RedirectToAction(actionName: nameof(List));
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int orderId)
+        {
+            return RedirectToAction(nameof(Index));
+        }
+
+        public ViewResult Index()
+        {
+            return View();
         }
     }
 }
