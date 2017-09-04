@@ -29,12 +29,6 @@ namespace SportsStore.Controllers
                                                                                 r.Category == category).Count()
                                             },
                                             CurrentCategory = category
-        });
-
-        [HttpPost]
-        public IActionResult Delete(int productId)
-        {
-            return BadRequest();
-        }
+        });        
     }
 }
