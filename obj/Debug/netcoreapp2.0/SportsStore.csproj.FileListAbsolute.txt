@@ -1,0 +1,10 @@
+/home/zeeshan/Projects/NetCore2/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.deps.json
+/home/zeeshan/Projects/NetCore2/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.json
+/home/zeeshan/Projects/NetCore2/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.dev.json
+/home/zeeshan/Projects/NetCore2/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.dll
+/home/zeeshan/Projects/NetCore2/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.pdb
+/home/zeeshan/Projects/NetCore2/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.csproj.CoreCompileInputs.cache
+/home/zeeshan/Projects/NetCore2/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfoInputs.cache
+/home/zeeshan/Projects/NetCore2/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfo.cs
+/home/zeeshan/Projects/NetCore2/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.dll
+/home/zeeshan/Projects/NetCore2/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.pdb
