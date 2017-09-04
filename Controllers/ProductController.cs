@@ -30,5 +30,11 @@ namespace SportsStore.Controllers
                                             },
                                             CurrentCategory = category
         });
+
+        [HttpPost]
+        public IActionResult Delete(int productId)
+        {
+            return BadRequest();
+        }
     }
 }
